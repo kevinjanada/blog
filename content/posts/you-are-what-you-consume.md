@@ -1,7 +1,7 @@
 ---
 title: "You Are What You Consume"
 date: 2022-11-19T12:43:10+07:00
-draft: true
+draft: false
 ---
 
 In the book Atomic Habits, James Clear wrote that you build habits by imitating the close, the many, and the powerful. The close is our friends and family; they give off an invisible peer pressure that influences our behavior. The many are the members of our group, whatever group we are in at a particular instance. When you are unsure how to act, you naturally look to others for guidance. As humans, we need to be accepted. We imitate the powerful, our heroes, and the people we look up to because they have power and status in society. People with power and status generally have more resources available, so they worry less about survival and are more attractive mates.
