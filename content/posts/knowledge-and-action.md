@@ -6,7 +6,7 @@ draft: false
 
 Studying and learning are great, but if you do not put the knowledge into action, they do not mean anything. Putting your knowledge into practice also enforces them in you. You can see whether what you learn can work when you put it to use. Then you will have more confidence in your knowledge.
 
-Since knowledge is embodied faster when you put it into practice, learning faster is to put your knowledge into practice as quickly as possible. You can immediately feel that you understand a concept by heart. Instead, start practicing it, and that knowledge gets reinforced as you practice. If you need to remember some things, you can always go back and review your notes.
+Since knowledge is embodied faster when you put it into practice, learning faster is to put your knowledge into practice as quickly as possible. You do not need to understand a concept by heart before putting them to use. Instead, start practicing it, and that knowledge gets reinforced as you practice. If you need to remember some things, you can always go back and review your notes.
 
 I experience how action makes knowledge stick firsthand in my work writing software. You can understand a concept or idea faster by implementing it in software. As you implement them, you will be forced to fill the gaps in your understanding, and as you fix the errors, you are correcting any misunderstandings.
 
